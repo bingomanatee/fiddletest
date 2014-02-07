@@ -4,6 +4,6 @@
  authors:
    - Dave E
  resources:
-   - https://rawgithub.com/bingomanatee/fiddletest/master/DemoDirectory/vendor/three.min.js
+   - https://rawgithub.com/bingomanatee/fiddletest/master/DemoDirectory2/vendor/three.min.js
  normalize_css: no
  ...
