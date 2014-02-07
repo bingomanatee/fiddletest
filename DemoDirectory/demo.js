@@ -1,6 +1,6 @@
 var loader = new THREE.ImageLoader();
 
-loader.load('images/dave_trek.png', function (data) {
+loader.load('https://raw2.github.com/bingomanatee/fiddletest/master/DemoDirectory/images/dave_trek.jpg', function (data) {
     console.log('loaded: ', data);
 }, function () {
 
